@@ -5,7 +5,9 @@ channels:
 dependencies:
   - pandas <2
   - bqplot
-  - geopandas
   - ipyleaflet
   - ipywidgets
   - js
+  - pip
+  - pip:
+    - geopandas
