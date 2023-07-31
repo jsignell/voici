@@ -7,4 +7,6 @@ dependencies:
   - bqplot
   - ipyleaflet
   - ipywidgets
-  - geopandas
+  - pip
+  - pip:
+    - geopandas
